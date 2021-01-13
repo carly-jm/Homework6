@@ -1,0 +1,31 @@
+  
+.stats{
+    height: 350px;
+}
+
+.day{
+    float: left;
+    height: 250px;
+    width: 160px;
+    background-color: #B2E9ED;
+}
+.history{
+    color: black;
+    background-color: aliceblue; 
+    text-transform:capitalize;
+}
+.green{
+    background-color: chartreuse;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: orangered;
+}
+.purple{
+    background-color: plum;
+}
